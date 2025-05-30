@@ -1,0 +1,319 @@
+Promotion_ID,Start_Date,End_Date,Promo_Name,Promotion_Type,is_sitewide,is_brand
+1,1/5/2021,1/11/2021,"Increase Easy Pay credit limit to $1,000",credit increase,1,0
+2,1/7/2021,1/13/2021,Bonus points,bonus points,0,0
+3,1/10/2021,1/16/2021,Bounce Back $50/500 qualification period,bounce back qualification,1,0
+4,1/14/2021,1/20/2021,Bonus points,bonus points,0,0
+5,12/9/2021,2/3/2021,Free Hat Promo ARA0510 AXI0510 LOS0510,bonus item,0,0
+7,1/18/2021,1/29/2021,Double Points,bonus points,0,0
+8,1/21/2021,2/15/2021,Bounce Back $50 Redemption (emails sends coupons 1/19),bounce back redemption,1,0
+9,1/21/2021,1/27/2021,Bonus points,bonus points,0,0
+10,1/28/2021,2/3/2021,Bonus points,bonus points,0,0
+11,2/4/2021,2/10/2021,Bonus points,bonus points,0,0
+12,2/5/2021,2/8/2021,"Club Free Standard/Economy Shipping-all orders (Includes, Standard, Pro and Legend)",shipping,1,0
+13,2/11/2021,2/17/2021,Bonus points,bonus points,0,0
+14,2/12/2021,2/15/2021,Easy Pay CL Increase (Presidents Day) $1000,credit increase,1,0
+15,2/12/2021,2/14/2021,Valentines Day (14% off GCs) Code: GIFT14,item level discount,0,0
+17,2/18/2021,2/24/2021,Bonus points,bonus points,0,0
+18,2/19/2021,2/21/2021,Double Points Weekend,bonus points,0,0
+20,2/25/2021,3/3/2021,Bonus points,bonus points,0,0
+21,2/25/2021,2/28/2021,Granite T2 Sale $84.99,item level discount,0,0
+24,3/4/2021,3/10/2021,Bonus points,bonus points,0,0
+25,3/10/2021,3/13/2021,Double Points,bonus points,0,0
+26,3/14/2021,3/14/2021,Pi Day Points Extravaganza,bonus points,0,0
+27,3/17/2021,3/23/2021,Easy Pay CL Increase $1000,credit increase,1,0
+28,3/18/2021,3/24/2021,Bonus points,bonus points,0,0
+29,3/25/2021,3/31/2021,Bonus points,bonus points,0,0
+30,3/24/2021,3/31/2021,Bounce Back Accrual $400 or More for $40 Bounce Back Coupon,bounce back qualification,1,0
+31,4/1/2021,4/7/2021,Bonus points,bonus points,0,0
+32,4/2/2021,4/5/2021,Double Points Weekend,bonus points,0,0
+33,4/3/2021,4/9/2021,$9.99 Hat Sale,free item,0,0
+34,4/7/2021,4/21/2021,Bounce Back Redemption $40 Bounce Back Coupon,bounce back redemption,1,0
+35,4/8/2021,4/14/2021,Bonus points,bonus points,0,0
+36,4/8/2021,4/11/2021,Free Shipping All Orders,shipping,1,0
+37,4/11/2021,4/17/2021,Easy Pay CL Increase $750,credit increase,1,0
+38,4/12/2021,4/14/2021,Triple Point items,bonus points,0,0
+39,4/15/2021,4/21/2021,Bonus points,bonus points,0,0
+40,4/15/2021,4/25/2021,Spring Savings 2021,item level discount,0,0
+41,4/22/2021,4/29/2021,Bounce Back Accrual $30/300,bounce back qualification,1,0
+42,4/22/2021,4/28/2021,Bonus points,bonus points,0,0
+45,4/29/2021,5/5/2021,Bonus points,bonus points,0,0
+46,5/1/2021,5/3/2021,Triple Point Items,bonus points,0,0
+47,5/4/2021,5/4/2021,Quad points site wide,bonus points,1,0
+48,5/6/2021,5/20/2021,Bounce Back Redemption $30/300,bounce back redemption,1,0
+49,5/6/2021,5/12/2021,Bonus points,bonus points,0,0
+50,5/13/2021,5/19/2021,Bonus points,bonus points,0,0
+51,5/20/2021,5/26/2021,Bonus points,bonus points,0,0
+52,5/18/2021,5/24/2021,Triple Point items,bonus points,0,0
+54,5/25/2021,5/31/2021,Bounce Back Accrual $50/500,bounce back qualification,1,0
+56,6/1/2021,6/3/2021,Triple Point items,bonus points,0,0
+58,6/4/2021,6/17/2021,Bounce Back Redemption $50/500,bounce back redemption,1,0
+60,6/8/2021,6/14/2021,Triple Point Items,bonus points,0,0
+61,6/10/2021,6/16/2021,Bonus points,bonus points,0,0
+62,6/17/2021,6/23/2021,Bonus points,bonus points,0,0
+63,6/18/2021,6/20/2021,Father's Day GC sale 10%,item level discount,0,0
+64,6/21/2021,6/22/2021,Quad Point Items,bonus points,0,0
+65,6/21/2021,6/22/2021,Limited Time Savings,item level discount,0,0
+66,6/24/2021,6/30/2021,Bonus points,bonus points,0,0
+67,6/24/2021,6/25/2021,Triple Points site wide,bonus points,1,0
+68,6/25/2021,6/28/2021,Easy Pay Increase $1000,credit increase,1,0
+69,6/27/2021,6/30/2021,Triple Point Items,bonus points,0,0
+70,6/29/2021,7/6/2021,"Bounce Back Accrual 2-tier coupons $20/200, $40/400",bounce back qualification,1,0
+71,7/1/2021,7/7/2021,Bonus points,bonus points,0,0
+72,7/1/2021,7/4/2021,4th of July 4x Sitewide,bonus points,1,0
+74,7/5/2021,7/9/2021,Triple Point Items,bonus points,0,0
+75,7/8/2021,7/14/2021,Bonus points,bonus points,0,0
+76,7/9/2021,7/22/2021,Bounce Back Redemption 2-tier coupons,bounce back redemption,1,0
+79,7/11/2021,7/15/2021,Triple Point Items E-flite In-stock BNF airplanes,bonus points,0,0
+80,7/16/2021,7/18/2021,Quadruple Point Items,bonus points,0,0
+81,7/19/2021,7/22/2021,Axial 3x Point items,bonus points,0,0
+82,7/23/2021,7/25/2021,Go For The Gold 3x Points Sitewide,bonus points,1,0
+83,7/26/2021,7/31/2021,Triple Point Items,bonus points,0,0
+84,7/27/2021,8/3/2021,Bounce Back Qualification 2-Tier $30/300-$499 or $50/500 or more,bounce back qualification,1,0
+86,7/29/2021,8/4/2021,Bonus points,bonus points,0,0
+88,8/5/2021,8/9/2021,3x Ponts Select FMS Airplanes,bonus points,0,0
+89,8/5/2021,8/11/2021,Bonus points,bonus points,0,0
+90,8/10/2021,8/14/2021,4x Points Select SPM Batteries,bonus points,0,0
+91,8/12/2021,8/18/2021,Bonus points,bonus points,0,0
+93,8/15/2021,8/18/2021,3x Points Site Wide,bonus points,0,0
+94,8/19/2021,8/25/2021,Bonus points,bonus points,0,0
+95,8/19/2021,9/1/2021,Bounce Back Redemption,bounce back redemption,0,0
+96,8/22/2021,8/28/2021,3x Point Hobbyzone,bonus points,0,0
+98,9/2/2021,9/8/2021,Bonus points,bonus points,0,0
+99,9/3/2021,9/6/2021,Easy Pay Limit Increase ($750),credit increase,1,0
+100,9/6/2021,9/7/2021,4x Points Site wide,bonus points,1,0
+101,9/8/2021,9/11/2021,3x Points select ARRMA Vehicles,bonus points,0,0
+102,9/9/2021,9/15/2021,Bonus points,bonus points,0,0
+104,9/12/2021,9/12/2021,5x Points RF Simulators,bonus points,0,0
+105,9/13/2021,9/18/2021,4x Points Select E-flite Airpalnes,bonus points,0,0
+106,9/16/2021,9/22/2021,"Bounce B. Qualification 2-Tier $15/150, $30/300",bounce back qualification,1,0
+107,9/16/2021,9/22/2021,Bonus points,bonus points,0,0
+108,9/19/2021,9/24/2021,3x Points Select Spektrum Radios and Accessories (Pirate Theme).,bonus points,0,0
+109,9/23/2021,9/29/2021,Bonus points,bonus points,0,0
+110,9/25/2021,9/30/2021,4x Points Select Axial Vehicles,bonus points,0,0
+111,9/30/2021,10/6/2021,Bonus points,bonus points,0,0
+113,10/1/2021,10/5/2021,3x Points All RC Airplanes,bonus points,0,0
+115,10/6/2021,10/19/2021,"Bounce B. Redemption 2-Tier $15/150, $30/300",bounce back redemption,1,0
+116,10/7/2021,10/12/2021,4x Points All RC Vehicles,bonus points,0,0
+117,10/7/2021,10/13/2021,Bonus points,bonus points,0,0
+119,10/13/2021,11/30/2021,4x Points All ARRMA Vehicles Evergreen,bonus points,0,0
+121,10/14/2021,10/20/2021,Bonus points,bonus points,0,0
+122,10/15/2021,10/17/2021,4x Points Site Wide,bonus points,1,0
+123,10/19/2021,10/25/2021,3x Points SPM Radios All,bonus points,0,0
+124,10/21/2021,10/27/2021,Bonus Points,bonus points,0,0
+125,10/22/2021,10/22/2021,Voltage 1-Day sale $99.99 (email only offer) Code: VOLTAGE,item level discount,0,0
+127,10/26/2021,10/31/2021,4x Points Losi All,bonus points,0,1
+128,10/28/2021,11/3/2021,Bonus Points,bonus points,0,0
+130,11/1/2021,11/7/2021,Bounce Back Qualification Graduated Tiers,bounce back qualification,1,0
+132,11/1/2021,11/22/2021,Holiday Headquarters 4x Points,bonus points,0,0
+133,11/1/2021,11/22/2021,4x Points Axial All,bonus points,0,1
+134,11/1/2021,11/22/2021,4x Points ARRMA All,bonus points,0,1
+135,11/4/2021,11/11/2021,Bonus Points,bonus points,0,0
+136,11/8/2021,11/10/2021,3x Points Site Wide,bonus points,1,0
+137,11/9/2021,11/11/2021,Pre-Black Friday Sale,item level discount,0,0
+138,11/11/2021,11/17/2021,Bonus Points,bonus points,0,0
+140,11/11/2021,11/14/2021,4x Points Eflite All,bonus points,0,1
+141,11/12/2021,11/22/2021,Bouce Back Redemption,bounce back redemption,1,0
+142,11/14/2021,11/20/2021,4x Point SPM Batteries All,bonus points,0,1
+143,11/21/2021,11/27/2021,Easy Pay Limit increase to $750,credit increase,1,0
+147,11/23/2021,11/24/2021,3x Points Site Wide,bonus points,1,0
+149,11/25/2021,12/1/2021,Bonus Points,bonus points,0,0
+150,11/25/2021,11/28/2021,Black Friday,item level discount,0,0
+151,11/27/2021,11/27/2021,"Small business Saturday ECX, Dromida HH.com promotion",item level discount,0,0
+152,11/29/2021,11/29/2021,Cyber Monday - Last day for door busters,item level discount,0,0
+154,11/29/2021,12/5/2021,Cyber Week,item level discount,0,0
+155,11/30/2021,11/30/2021,Giving Tues,other,0,0
+158,12/5/2021,12/9/2021,3x Ponts Site Wide,bonus points,1,0
+159,12/2/2021,12/8/2021,Bonus Points,bonus points,0,0
+161,12/9/2021,12/15/2021,Bonus Points,bonus points,0,0
+162,12/10/2021,12/14/2021,Easy Pay Limit increase $750,credit increase,1,0
+165,12/15/2021,12/31/2021,ARA102727 Voltage $89.99,item level discount,0,0
+166,12/16/2021,12/22/2021,Bonus Points,bonus points,0,0
+170,12/21/2021,12/23/2021,"E Gift Card Discount Promo (bonus $10GC gift card for $100, $250 or $500GC) Ends 1pm on 23rd No coupon required",item level discount,0,0
+176,12/27/2021,12/31/2021,Spektrum 4x Points All SPM Items,bonus points,0,1
+177,12/27/2021,12/31/2021,End of year steals and deals,item level discount,0,0
+178,1/1/2022,1/2/2022,"4x Points RF9.5S RFL1200S, RFL1201S, RFL1203S",bonus points,0,0
+180,1/4/2022,1/10/2022,Bounce Back Qualification Gratuated Tiers (Nate approved),bounce back qualification,1,0
+181,1/6/2022,1/12/2022,Bonus Points,bonus points,0,0
+184,1/12/2022,1/17/2022,AMP Up Your New Year Sale,item level discount,0,0
+186,1/13/2022,1/27/2022,Free Hat (BLH0510) with Blade BLH05850 & BLH54550-for pre-order period,free goods,0,0
+187,1/13/2022,1/19/2022,Bonus Points,bonus points,0,0
+188,1/17/2022,1/20/2022,3x Points All Eflite,bonus points,0,1
+189,1/17/2022,1/23/2022,Free Hat (HAN0510) with Hangar9 Airplanes,free goods,0,1
+190,1/19/2022,1/31/2022,Bounce Back Remption Gratuated Tiers,bounce back redemption,1,0
+191,1/20/2022,1/26/2022,Bonus Points,bonus points,0,0
+192,1/21/2022,1/23/2022,4x Points Site Wide,bonus points,1,0
+193,1/21/2022,2/6/2022,Winter Sale,item level discount,0,0
+194,1/26/2022,1/27/2022,4x Points ARRMA 3S Vehicles,bonus points,0,0
+196,1/29/2022,1/30/2022,4x Points G2 Power Stage Bundles,bonus points,0,0
+199,2/5/2022,2/6/2022,4x Points EFL Jets,bonus points,0,0
+200,2/7/2022,2/11/2022,Free Eflite Hat (EFL0510) with Draco Purchase EFL12575 and EFL12550 on (not the combo),free goods,0,0
+202,2/12/2022,2/13/2022,4x Points Spektrum NX Radios,bonus points,0,0
+203,2/14/2022,2/20/2022,Bounce Back Graduated Tiers,bounce back qualification,1,0
+204,2/17/2022,2/23/2022,Bonus Points,bonus points,0,0
+207,2/19/2022,2/28/2022,Free SPM S155 charger with select vehicles,free goods,0,0
+209,2/22/2022,3/6/2022,RC Super Sale,item level discount,0,0
+210,2/24/2022,2/25/2022,3x Points Blade Helicopters,bonus points,0,0
+211,2/24/2022,3/2/2022,Bonus Points,bonus points,0,0
+212,2/26/2022,2/28/2022,4X Points Site Wide,bonus points,1,0
+213,3/1/2022,3/14/2022,Bounce Back Redemption,bounce back redemption,1,0
+215,3/4/2022,3/31/2022,ARRMA GET'EM Sale,item level discount,0,0
+216,3/8/2022,3/9/2022,4x Points ARRMA SCX10II Vehicles,bonus points,0,0
+217,3/8/2022,3/14/2022,S155 Charger Promo,free goods,0,0
+219,3/12/2022,3/13/2022,4x Points Site Wide Weekend,bonus points,1,0
+220,3/16/2022,3/18/2022,4x Points All Hobbyzone Airplanes,bonus points,0,1
+221,3/17/2022,3/18/2022,Flash Sale,item level discount,0,0
+222,3/23/2022,3/29/2022,Bounce Back Accrual Unlimited Tiers,bounce back redemption,1,0
+225,3/24/2022,3/25/2022,Flash Sale,item level discount,0,0
+226,3/30/2022,3/31/2022,4x Points EFL Trainers w/ Safe,bonus points,0,0
+227,3/31/2022,4/1/2022,Flash Sale,item level discount,0,0
+228,4/1/2022,4/3/2022,4x Points Site Wide,bonus points,1,0
+229,4/4/2022,4/8/2022,DTX Tire Sale,item level discount,0,0
+230,4/6/2022,4/19/2022,Bounce Back Redemption,bounce back redemption,1,0
+231,4/6/2022,4/7/2022,4x Points SPM Chargers,bonus points,0,0
+232,4/7/2022,4/8/2022,Omni Channel Flash Sale,item level discount,0,0
+233,4/9/2022,4/10/2022,3x Points Losi Drag Cars,bonus points,0,0
+234,4/8/2022,4/17/2022,Foam Frenzy,item level discount,0,0
+235,4/11/2022,4/13/2022,4x Points ARRRMA All Road Vehicles,bonus points,0,0
+237,4/14/2022,4/15/2022,Flash Sale,item level discount,0,0
+240,4/15/2022,4/22/2022,Spring Madness Sale,item level discount,0,0
+241,4/18/2022,4/20/2022,3x Points Eflite Trainer Airplanes,bonus points,0,0
+242,4/21/2022,4/22/2022,Omni Channel Flash Sale,item level discount,0,0
+243,4/23/2022,4/25/2022,4x Points Proline Brand Wide,bonus points,0,1
+245,4/26/2022,4/30/2022,Electrify Your Savings,item level discount,0,0
+246,4/28/2022,4/29/2022,Omni Channel Flash Sale,item level discount,0,0
+253,5/4/2022,5/4/2022,4x Points site wide,bonus points,1,0
+254,5/5/2022,5/6/2022,Flash Sale Omni Channel,item level discount,0,0
+255,5/9/2022,5/11/2022,4X Points ARRMA 3S Vehicles,bonus points,0,0
+256,5/12/2022,5/13/2022,5x Points RF Simulators,bonus points,0,0
+257,5/12/2022,5/13/2022,Free S155 Charger with purchase,free goods,0,0
+258,5/13/2022,5/20/2022,Wake Your Summer Omni Channel,item level discount,0,0
+259,5/17/2022,5/23/2022,Hop Up Your Rig Motor/ESC Sale,item level discount,0,0
+260,5/19/2022,5/19/2022,3X Points site wide,bonus points,1,0
+263,5/24/2022,5/25/2022,3X BLH Helis,bonus points,0,0
+264,5/24/2022,5/31/2022,Voltage @ $89.99 ARA102727T2,item level discount,0,0
+267,5/27/2022,5/30/2022,Dynamite Tool and Accessories Sale,item level discount,0,0
+269,6/4/2022,6/5/2022,4x Points Weekend,bonus points,1,0
+270,6/6/2022,6/11/2022,Proboat 4x Points Brand Wide,bonus points,0,1
+271,6/10/2022,6/12/2022,4x Points ARRMA 6S Vehicles,bonus points,0,0
+272,6/13/2022,6/15/2022,4x Points All Hobbyzone Airplanes,bonus points,0,1
+273,6/13/2022,6/19/2022,Fathers Day Savings Sale,item level discount,0,0
+275,6/13/2022,7/4/2022,ARRMA Infraction Mega Sale,item level discount,0,0
+278,6/15/2022,6/19/2022,Father's Day 10% Off EGift Card,item level discount,0,0
+279,6/17/2022,6/23/2022,Hobby Essentials Tool Sale 15% Off Brand Wide,item level discount,0,1
+281,6/20/2022,6/22/2022,4x Points All Eflite Airplanes,bonus points,0,1
+283,6/23/2022,7/7/2022,PRB08041 Free Sunglasses promo (PRB02022 preorder) HHUS ONLY,free goods,0,0
+285,6/29/2022,6/30/2022,3x Points Site Wide,bonus points,0,1
+286,6/29/2022,7/6/2022,4th Of July Hot Buys (Omni Channel),item level discount,0,0
+288,7/4/2022,7/6/2022,E-flite 10% Off Email Only,item level discount,0,1
+289,7/7/2022,7/9/2022,Hobbyzone 10% Off Email Only,item level discount,0,1
+290,7/9/2022,7/10/2022,4x Points Weekend,bonus points,1,0
+291,7/10/2022,7/12/2022,Pro Line 10% Off Email Only,item level discount,0,1
+292,7/12/2022,7/13/2022,Horizon Hobby Summer Deals,item level discount,0,0
+293,7/13/2022,7/15/2022,Pro Boat 10% Off Email Only,item level discount,0,1
+294,7/15/2022,7/17/2022,4x Points Losi Vehicles,bonus points,0,1
+295,7/17/2022,7/19/2022,Dynamite 10% Off Email Only,item level discount,0,1
+296,7/12/2022,7/31/2022,Learn To Fly Now Sale Omni Channel,item level discount,0,0
+298,7/1/2022,7/31/2022,Spekrum Smart Rebate,rebate,0,0
+299,7/22/2022,7/27/2022,Proline 4x Points,bonus points,0,1
+300,7/22/2022,7/29/2022,Christmas In July Sale Omni Channel,item level discount,0,0
+302,7/23/2022,7/25/2022,Losi 10% Off Email Only,bonus points,0,1
+303,7/25/2022,7/27/2022,DTX Tire Sale,item level discount,0,0
+304,7/26/2022,7/28/2022,Hangar 9 10% Off Email Only,item level discount,0,1
+306,7/29/2022,7/31/2022,ARRMA 10% Off Email Only,item level discount,0,1
+315,8/9/2022,8/15/2022,Spektrum S155 Charger with Select vehicles,free goods,0,0
+316,8/11/2022,8/17/2022,Get Out And Explore (omni channel),item level discount,0,0
+317,8/13/2022,8/14/2022,4x Points Weekend (Site Wide) (modelo aviation day call out),bonus points,1,0
+319,8/15/2022,8/22/2022,DTX TIres w/ vehicles,free goods,0,0
+321,8/18/2022,8/19/2022,All Road Flash Sale (omni channel sale),item level discount,0,0
+322,8/19/2022,8/25/2022,Aviation Day Sale (omni channel),item level discount,0,0
+324,8/23/2022,8/29/2022,Dynamite Battery Sale,item level discount,0,0
+325,8/25/2022,8/26/2022,Race To Savings (omni channel),item level discount,0,0
+326,8/26/2022,8/28/2022,4x Points ARRMA 3S Vehicles,bonus points,0,0
+328,8/30/2022,8/31/2022,Power Up Flash Sale (omni channel),item level discount,0,0
+329,9/1/2022,9/6/2022,Labor Day Omni Channel Sale (omni channel),item level discount,0,0
+330,9/1/2022,9/4/2022,4x Points All E-flite Brand wide,bonus points,0,1
+331,9/1/2022,9/9/2022,BLH4400 GO LIVE 4X for club members,bonus points,0,0
+332,9/7/2022,9/9/2022,Quarter Mile At A Time Sale (omni channel),item level discount,0,0
+335,9/10/2022,9/19/2022,Fall into Savings Sale (omni channel),item level discount,0,0
+342,9/20/2022,9/22/2022,4x Site Wide,bonus points,1,0
+345,9/23/2022,10/2/2022,Take off into Autumn Sale (omni channel),item level discount,0,0
+346,9/23/2022,10/2/2022,ARRMA Fall Sale (Omni Channel),item level discount,0,0
+349,10/3/2022,10/4/2022,4x Points Site Wide,bonus points,1,0
+350,10/5/2022,10/17/2022,Holiday Kickoff Sale (Omni Channel),item level discount,0,0
+353,10/20/2022,10/31/2022,Spooky Deals (Omni Channel),item level discount,0,0
+354,10/21/2022,10/27/2022,Hobby Essentials Promotion 25% Off Brand Wide,item level discount,0,1
+356,11/1/2022,11/20/2022,Pre-Black Friday Sale (Omni Channel),item level discount,0,0
+357,11/3/2022,11/15/2022,Triple points on purchase of EFL Eratix 3D,bonus points,0,0
+358,12/9/2022,12/11/2022,4X Points Site Wide,bonus points,1,0
+362,11/21/2022,11/23/2022,4X Points Site Wide,bonus points,1,0
+363,11/24/2022,11/27/2022,Black Friday Sale (Omni Channel),item level discount,0,0
+365,11/26/2022,11/26/2022,Small Business Saturday,item level discount,0,0
+366,11/28/2022,12/4/2022,Cyber Week (Omni Channel),item level discount,0,0
+368,12/5/2022,12/13/2022,Holiday Roundup (omni channel),item level discount,0,0
+370,12/9/2022,12/11/2022,4x Points Site Wide,bonus points,1,0
+374,12/8/2022,12/16/2022,Pre-Order EFLU30050 Twin Otter 3x Points,bonus points,0,0
+375,12/14/2022,12/22/2022,Last Minute Deals (Omni Channel),item level discount,0,0
+379,12/16/2022,12/23/2022,E Gift Card Discount Promo 10% Ends 1pm CT 12/23,item level discount,0,0
+384,12/24/2022,12/25/2022,4x Points Site Wide,bonus points,1,0
+387,12/29/2022,12/31/2022,4X sitewide,bonus points,1,0
+388,1/1/2023,1/9/2023,Hobby Essentials Sale 25% off brand wide no coupon required,item level discount,0,1
+390,1/9/2023,1/11/2023,3x Points Site Wide,bonus points,1,0
+391,1/12/2023,1/31/2023,New Year Savings Sale,item level discount,0,0
+392,1/16/2023,1/16/2023,5X Points RFL,bonus points,0,1
+393,1/23/2023,1/25/2023,3x Points Site Wide,bonus points,1,0
+394,1/30/2023,1/30/2023,Multiplier Monday - 5X Points Spektrum Rx & Sx,bonus points,0,1
+395,1/12/2023,1/20/2023,New EFL Mustang EFL089500/EFL08975 3x Points,bonus points,0,0
+397,1/26/2023,2/23/2023,Pre-order offer/EFL013550 / EFL013575 email coupon for SPMX50006S30 2/24-3/2,free goods,0,0
+400,2/6/2023,2/16/2023,Hop Up Your Ride Sale,item level discount,0,0
+401,2/6/2023,2/6/2023,Multiplier Monday 5x Avian ESC and Motors,bonus points,0,1
+402,2/9/2023,3/27/2023,Spektrum Ultimate Upgrade Rebate HH.com,rebate,0,0
+404,2/12/2023,2/14/2023,14% off e-gift card with code GIFT14,item level discount,0,0
+405,2/13/2023,2/28/2023,The Great RC Deals Sale,item level discount,0,0
+406,2/15/2023,2/17/2023,3x Points Site Wide,bonus points,1,0
+408,2/21/2023,2/23/2023,Axial Adventure Sale,item level discount,0,0
+409,2/24/2023,2/26/2023,SPM Airplane Radios (discount on SPM TX case),item level discount,0,1
+410,2/27/2023,2/27/2023,Multiplier Monday - All Proline,bonus points,0,1
+411,3/1/2023,3/5/2023,Free S155 charger with select products,free goods,0,0
+413,3/9/2023,3/10/2023,3X SPM NX Radios,bonus points,0,1
+414,3/13/2023,3/14/2023,10% off select aircraft (email only),item level discount,0,0
+415,3/15/2023,4/2/2023,Truck Month Omni Channel,item level discount,0,0
+416,3/16/2023,3/22/2023,"Pre-order HAN3390 4x Points (MB-339 ARF with Retracts, 84"")",bonus points,0,0
+417,3/17/2023,3/18/2023,4x points site wide (St Patricks day theme),bonus points,1,0
+419,3/21/2023,3/24/2023,Free DYNT0500 tool set with select RTRs,free goods,0,0
+420,3/23/2023,3/29/2023,Pre-order EFLU8950 3x Points (UMX Turbo Timber EVO),bonus points,0,0
+421,3/24/2023,3/28/2023,3X Points EFL Trainers w/ Safe,bonus points,0,0
+422,3/27/2023,3/27/2023,5x SPM Batteries,bonus points,0,1
+423,3/29/2023,3/30/2023,10% off Select Losi Vehicles (email only for loyalty members),item level discount,0,0
+424,3/31/2023,4/14/2023,ECX Closeouts,item level discount,0,0
+425,4/3/2023,4/3/2023,5x Points SPM Recievers,bonus points,0,1
+426,4/6/2023,4/21/2023,Pre-Order Offer/EFL14025 3x Points,bonus points,0,0
+427,4/7/2023,4/9/2023,4x Points SPM Chargers,bonus points,0,1
+429,4/10/2023,4/10/2023,5x Blade Helis,bonus points,0,1
+430,4/13/2023,4/18/2023,Sunshine Savings Sale (Omni Channel),item level discount,0,0
+431,4/14/2023,4/16/2023,Targeted Duratrax Email Sale full list,item level discount,0,1
+432,4/13/2023,4/20/2023,Pre-Order Offer/Twin Timber 3x Points (EFL23850) NEED PDP YELLOW BOX,bonus points,0,0
+434,4/19/2023,4/25/2023,Athearn Train Sale,item level discount,0,0
+435,4/21/2023,4/23/2023,3x Points Weekend,bonus points,1,0
+437,4/25/2023,4/30/2023,Hobby Essentials Sale 25% Off,item level discount,0,1
+438,4/25/2023,5/1/2023,Cons Trail Honcho/Free SCX24 Deadbolt (Omni Channel),free goods,0,0
+439,5/1/2023,5/1/2023,5x Points SPM Batteries,bonus points,0,1
+441,4/28/2023,4/30/2023,Burn Rubber Tire Sale,item level discount,0,0
+442,5/1/2023,5/31/2023,Spring Cleaning Extended,item level discount,0,0
+443,5/2/2023,5/4/2023,Loyalty 10% off email/only mix of items,item level discount,0,0
+445,4/19/2023,5/13/2023,"ARA102727 VOLTAGE Sale (EXTENDED, Was 04/30)",item level discount,0,0
+446,5/5/2023,5/7/2023,4x Points Weekend,bonus points,1,0
+447,5/8/2023,5/8/2023,5x Points Dynamite Brand,bonus points,0,1
+448,5/18/2023,5/18/2023,4x Realflight Simulators,bonus points,0,0
+449,5/15/2023,5/31/2023,ARRMAGETEM Sale Omni Channel,item level discount,0,0
+451,5/17/2023,5/31/2023,Learn to Fly Now! Omni Channel,item level discount,0,0
+453,5/19/2023,5/21/2023,4x Points Axial Brand,bonus points,0,1
+454,5/18/2023,5/18/2023,4x Realflight Simulators,bonus points,0,0
+456,5/22/2023,5/22/2023,Multiplier Monday 5x OS engines,bonus points,0,1
+458,5/26/2023,5/28/2023,Loyalty Pro Boat Brand wide 10% Email only Code: PROBOAT,item level discount,0,1
+459,5/26/2023,6/18/2023,ARA Voltage $99.99 Code: VOLTAGE T1/T2 only,item level discount,0,0
+462,6/2/2023,6/18/2023,Fathers Day Sale,item level discount,0,0
+466,6/12/2023,6/12/2023,5x Points Pro-Line,bonus points,0,1
+467,6/14/2023,6/18/2023,10% off Egift Cards-Limit one egift card Code: EGIFT,item level discount,0,0
+469,6/15/2023,6/22/2023,EFL08450 Razorback BNF Basic - 3X Points - 50% off SPMX32004S50 ($32/50 value),bonus points,0,0
+471,6/20/2023,6/22/2023,3x Points Site Wide,bonus points,1,0
+472,6/23/2023,6/25/2023,10% Off AKA Brand -Loyalty email only,item level discount,0,1
