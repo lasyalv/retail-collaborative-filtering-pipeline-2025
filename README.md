@@ -3,7 +3,7 @@ Production‑grade retail recommendation pipeline using collaborative‑filterin
 
 ## Introduction
 
-This project focuses on improving customer experience and sales by building a Product Recommendation System for a retail company. The goal is to suggest relevant products to shoppers based on purchase history and product similarities, driving engagement and revenue. Recommendation systems like this are widely used by companies such as Amazon and Netflix to personalize content.
+This project focuses on improving customer experience and sales by building a **Product Recommendation System** for a retail company. The goal is to suggest relevant products to shoppers based on purchase history and product similarities, driving engagement and revenue. Recommendation systems like this are widely used by companies such as Amazon and Netflix to personalize content.
 
 ## Dataset
 
@@ -24,11 +24,11 @@ The analysis workflow was as follows:
 
 ## Tools & Technologies
 
-- Languages & Libraries: Python (pandas, NumPy, scikit-learn), Apache Spark (PySpark for ALS), SQL (MySQL) for data storage.
-- Data Handling: SQL database for raw transactions, Jupyter notebooks for prototyping, pandas for ETL.
-- Machine Learning: Spark MLlib ALS for collaborative filtering, scikit-learn for evaluation.
-- Visualization: Tableau Public for interactive dashboards of recommendation coverage, and matplotlib/seaborn for metric plots.
-- Collaboration: GitHub for version control, Trello for task tracking.
+- **Languages & Libraries:** Python (`pandas`, `NumPy`, `scikit-learn`), Apache Spark (`PySpark` for ALS), SQL (`MySQL`) for data storage.  
+- **Data Handling:** SQL database for raw transactions, Jupyter notebooks for prototyping, `pandas` for ETL.  
+- **Machine Learning:** Spark MLlib ALS for collaborative filtering, `scikit-learn` for evaluation.  
+- **Visualization:** Tableau Public for interactive dashboards of recommendation coverage, and `matplotlib`/`seaborn` for metric plots.  
+- **Collaboration:** GitHub for version control, Trello for task tracking.  
 
 ## Results & Insights
 
